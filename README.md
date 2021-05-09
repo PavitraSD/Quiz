@@ -1,2 +1,2 @@
 # Quiz
-quiz app using javascript
+Quiz App Using Javascript
